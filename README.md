@@ -2,9 +2,7 @@
 - 👀 Je suis intéressé par Python, HTML, CSS, TypeScript, JavaScript, PHP
 - 🌱 J'apprends actuellement TypeScript, PHP et JavaScript (bien avancé)
 - 💞️ Je cherche à collaborer avec d'autres ados passionnés de code pour s'associer
-- 📫 Comment me contacter ...
-- 😄 Pronoms : ...
-- ⚡ Fun fact : ...
+- 📫 Comment me contacter: adriencourault@outlook.fr
 
 ## 📂 Mes Projets
 - 📚 [Logiciel de gestion de livres](https://github.com/max-63/gestion-livres) - Un logiciel pour gérer ses livres
